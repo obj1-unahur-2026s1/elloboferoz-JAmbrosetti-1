@@ -25,6 +25,6 @@ El lobo va corriendo hasta el bosque. Allí se encuentra con Caperucita, convers
 
 5. Averiguar cómo queda de saludable el lobo en los diferentes finales posibles. 
 
-Salud del lobo en los 3 finales
+Salud del lobo en los 2 finales
 Lobo entra en crisis porque el cazador lo asusta (No es saludable)
-Lobo se come al cazador
+Lobo se come al cazador (Es saludable)
