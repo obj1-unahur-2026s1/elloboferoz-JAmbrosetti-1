@@ -24,3 +24,7 @@ Feroz, el lobo, se siente desnutrido y famélico y quiere un sistema para simula
 El lobo va corriendo hasta el bosque. Allí se encuentra con Caperucita, conversan, pero no pasa nada más. Luego, el lobo corre a la casa de la abuelita y luego de comersela, se disfraza de ella.  Mientras tanto, Caperucita cruza el bosque y se le cae una manzana de su canasta. Cuando feroz ve llega a Caperucita a la casa, molesto por las preguntas incisivas sobre su aspecto físico, abre grande su boca y se come a Caperucita con canasta llena y todo. Finalmente, llega el cazador… ¿El lobo también se lo come de un bocado? ¿El cazador provoca una crisis en el lobo? ¿Qué otra cosa puede suceder? (Modelar al cazador de manera creativa, no trivial, y consistente con lo realizado anteriormente)
 
 5. Averiguar cómo queda de saludable el lobo en los diferentes finales posibles. 
+
+Salud del lobo en los 3 finales
+Lobo entra en crisis porque el cazador lo asusta (No es saludable)
+Lobo se come al cazador
